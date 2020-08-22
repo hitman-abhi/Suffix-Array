@@ -1,4 +1,4 @@
-/* Reduced the extra array a from last and making array p already sorted by second element so that we need to only call 1 count sort. Time : O(nlogn)
+// Reduced the extra array a from last and making array p already sorted by second element so that we need to only call 1 count sort. Time : O(nlogn)
 
 
 #include<bits/stdc++.h>
